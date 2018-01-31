@@ -7,3 +7,5 @@ const materialUIMock = () => (
     <MUIComp />
   </MuiThemeProvider>
 );
+
+export default materialUIMock;
